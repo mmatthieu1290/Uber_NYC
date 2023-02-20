@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 ### HEADER
-st.title('')
+st.title('Hot spots for Uber in NYC')
 
 days_list = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday']
 
