@@ -8,10 +8,7 @@
 
 <em>Transforming Urban Mobility with Data-Driven Insights</em>
 
-<!-- BADGES -->
-<img src="https://img.shields.io/github/last-commit/mmatthieu1290/Uber_NYC?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<img src="https://img.shields.io/github/languages/top/mmatthieu1290/Uber_NYC?style=flat&color=0080ff" alt="repo-top-language">
-<img src="https://img.shields.io/github/languages/count/mmatthieu1290/Uber_NYC?style=flat&color=0080ff" alt="repo-language-count">
+
 
 **Built with Python · [▶ Available on Streamlit](https://mmatthieu1290-uber-nyc-dashboard-uber-nyc-l0xrkk.streamlit.app/)**
 
