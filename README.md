@@ -13,10 +13,7 @@
 <img src="https://img.shields.io/github/languages/top/mmatthieu1290/Uber_NYC?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/mmatthieu1290/Uber_NYC?style=flat&color=0080ff" alt="repo-language-count">
 
-<em>Built with the tools and technologies:</em>
-
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+**Built with Python · [▶ Available on Streamlit]((https://mmatthieu1290-uber-nyc-dashboard-uber-nyc-l0xrkk.streamlit.app/))**
 
 </div>
 <br>
